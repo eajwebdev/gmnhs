@@ -1,0 +1,30 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+
+# Local database dumps and one-off scripts (contain personal data / credentials)
+/*.sql
+/export_property_split.php
+
+# Generated report files and stray folders
+/public/Downloaded Form/*
+!/public/Downloaded Form/.gitkeep
+/public/RPCPPE_Reports_Copy_*.xlsx
+/public/%SystemDrive%/
+/output/
+
+# Local tooling caches
+/.composer-cache/
+/.composer-home/

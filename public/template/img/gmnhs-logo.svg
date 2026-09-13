@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Gil Montilla National High School seal</title>
+  <desc id="desc">A GMNHS school seal using red, gold, green, and blue.</desc>
+  <defs>
+    <linearGradient id="gold" x1="32" y1="32" x2="224" y2="224" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe66d"/>
+      <stop offset=".48" stop-color="#f5bd16"/>
+      <stop offset="1" stop-color="#b97800"/>
+    </linearGradient>
+    <linearGradient id="sky" x1="64" y1="55" x2="194" y2="164" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#36b9ff"/>
+      <stop offset="1" stop-color="#0b56b3"/>
+    </linearGradient>
+  </defs>
+  <circle cx="128" cy="128" r="122" fill="url(#gold)"/>
+  <circle cx="128" cy="128" r="105" fill="#ffffff"/>
+  <circle cx="128" cy="128" r="83" fill="url(#sky)"/>
+  <path d="M52 132c19-18 39-27 61-27 27 0 44 15 66 15 10 0 19-3 27-8v55H52z" fill="#159447"/>
+  <path d="M68 161h120v13H68z" fill="#0d6a36"/>
+  <path d="M84 137h88v30H84z" fill="#f8fafc"/>
+  <path d="M92 145h72v22H92z" fill="#35a853"/>
+  <path d="M100 152h14v15h-14zm26 0h14v15h-14zm26 0h14v15h-14z" fill="#e8f5ff"/>
+  <path d="M81 101h94l-47-36z" fill="#e32222"/>
+  <path d="M119 76h18v91h-18z" fill="#f5bd16"/>
+  <path d="M77 187c22 13 45 19 69 17 20-1 38-7 53-18" fill="none" stroke="#138b41" stroke-width="9" stroke-linecap="round"/>
+  <path d="M70 79c33-36 83-43 122-18" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" opacity=".7"/>
+  <text x="128" y="43" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800" fill="#c5161d">GMNHS</text>
+  <text x="128" y="220" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800" fill="#c5161d">SINCE 1968</text>
+</svg>
